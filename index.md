@@ -38,13 +38,14 @@ extrovert and gentle.follow are the my best friend list:
 #### Now some pics of my friend
 
 
-![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0014.jpg "Logo Title Text 1")
+![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0014.jpg )
 
 
-![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0020.jpg "Logo Title Text 1")
+![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0020.jpg )
 
-![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0021.jpg "Logo Title Text 1")
+![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0021.jpg )
 
-![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0022.jpg "Logo Title Text 1")
+![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0022.jpg )
 
-![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0025.jpg "Logo Title Text 1")
+##### you can see the raushan's yogashan 😂😂😂😂
+![alt raushan yoga ](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0025.jpg "raushan yogashan")
