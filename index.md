@@ -4,8 +4,8 @@
 ### intro:
 
 Hii i am Tarun choudhary  and people known me as **_Tarun_** **_racer_**,
-i have won many prizes on the state level.Right now i am persuing class 11 with CBSE boards
-Right now i am living in Sangam vihar Delhi.
+i have won many prizes on the state level.Now i am persuing class 11 with CBSE boards
+.Now i am living in Sangam vihar Delhi.
 
 
 ### passion:
