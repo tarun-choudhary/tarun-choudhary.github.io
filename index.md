@@ -37,7 +37,6 @@ extrovert and gentle.follow are the my best friend list:
 
 #### Now some pics of my friend
 
-
 ![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0014.jpg )
 
 
