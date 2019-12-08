@@ -33,5 +33,18 @@ extrovert and gentle.follow are the my best friend list:
 * **Roshan**
 * _Amit_
 * **Aman**
+* _Rohan_
+
+#### Now some pics of my friend
 
 
+![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0014.jpg "Logo Title Text 1")
+
+
+![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0020.jpg "Logo Title Text 1")
+
+![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0021.jpg "Logo Title Text 1")
+
+![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0022.jpg "Logo Title Text 1")
+
+![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0025.jpg "Logo Title Text 1")
