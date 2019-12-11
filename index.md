@@ -46,5 +46,7 @@ extrovert and gentle.follow are the my best friend list:
 
 ![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0022.jpg )
 
+![alt text](https://tarun-choudhary.github.io/intro/IMG.jpg )
+
 ##### you can see the raushan's yogashan 😂😂😂😂
 ![alt raushan yoga ](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0025.jpg "raushan yogashan")
