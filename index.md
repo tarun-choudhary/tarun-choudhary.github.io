@@ -22,7 +22,7 @@ But i mainly prefer racing like:
 because i love speed.
 As i mentioned above i read in 11 class,and i am the student of science, because of this my curiosity level always be at higher-end.
 
-My pic with my friends:
+### My pic with my friends:
 
 ![alt text](https://tarun-choudhary.github.io/intro/IMG_20191211_175429.jpg )
 
