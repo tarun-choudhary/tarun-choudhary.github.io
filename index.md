@@ -41,14 +41,17 @@ extrovert and gentle.follow are the my best friend list:
 
 #### Now some pics of my friend
 
-![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0014.jpg )
+#![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0014.jpg )
+![alt text](https://tarun-choudhary.github.io/intro/tarun.jpg )
+![alt text](https://tarun-choudhary.github.io/intro/tarun1.jpg )
+![alt text](https://tarun-choudhary.github.io/intro/tarun2.jpg )
 
 
-![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0020.jpg )
+#![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0020.jpg )
 
-![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0021.jpg )
+#![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0021.jpg )
 
-![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0022.jpg )
+#![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0022.jpg )
 
 
 
