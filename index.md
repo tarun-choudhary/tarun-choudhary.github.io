@@ -44,15 +44,15 @@ extrovert and gentle.follow are the my best friend list:
 <!-- ![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0014.jpg ) -->
 ![alt text](https://tarun-choudhary.github.io/intro/tarun.jpg )
 
-#### it's me
+
 
 ![alt text](https://tarun-choudhary.github.io/intro/tarun1.jpg )
 
 
-#### some of my friends
+#### it's me
 ![alt text](https://tarun-choudhary.github.io/intro/tarun2.jpg )
 
-
+#### picture of few but best friends
 ![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0020.jpg )
 
 ![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0021.jpg )
