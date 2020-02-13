@@ -24,7 +24,7 @@ As i mentioned above i read in 11 class,and i am the student of science, because
 
 ### My pic with my friends:
 
-![alt text](https://tarun-choudhary.github.io/intro/IMG_20191211_175429.jpg )
+<!-- [comment]: ![alt text](https://tarun-choudhary.github.io/intro/IMG_20191211_175429.jpg ) -->
 
 
 ### About friends:
@@ -41,17 +41,22 @@ extrovert and gentle.follow are the my best friend list:
 
 #### Now some pics of my friend
 
-#![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0014.jpg )
+<!-- ![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0014.jpg ) -->
 ![alt text](https://tarun-choudhary.github.io/intro/tarun.jpg )
+
+
 ![alt text](https://tarun-choudhary.github.io/intro/tarun1.jpg )
+
+
+
 ![alt text](https://tarun-choudhary.github.io/intro/tarun2.jpg )
 
 
-#![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0020.jpg )
+![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0020.jpg )
 
-#![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0021.jpg )
+![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0021.jpg )
 
-#![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0022.jpg )
+![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0022.jpg )
 
 
 
