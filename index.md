@@ -22,7 +22,7 @@ But i mainly prefer racing like:
 because i love speed.
 As i mentioned above i read in 11 class,and i am the student of science, because of this my curiosity level always be at higher-end.
 
-### My pic with my friends:
+<!-- ### My pic with my friends:
 
 <!-- [comment]: ![alt text](https://tarun-choudhary.github.io/intro/IMG_20191211_175429.jpg ) -->
 
@@ -52,7 +52,7 @@ extrovert and gentle.follow are the my best friend list:
 #### it's me
 ![alt text](https://tarun-choudhary.github.io/intro/tarun2.jpg )
 
-#### picture of few but best friends
+<!-- #### picture of few but best friends
 ![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0020.jpg )
 
 ![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0021.jpg )
@@ -62,4 +62,4 @@ extrovert and gentle.follow are the my best friend list:
 
 
 ##### you can see the raushan's yogashan 😂😂😂😂
-![alt raushan yoga ](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0025.jpg "raushan yogashan")
+![alt raushan yoga ](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0025.jpg "raushan yogashan")-->
