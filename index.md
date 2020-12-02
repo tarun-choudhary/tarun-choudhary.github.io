@@ -1,4 +1,5 @@
 ## Introduction of Tarun
+![Twitter Follow](https://img.shields.io/twitter/follow/tarun?label=follower&style=social)
 
 
 ### intro:
