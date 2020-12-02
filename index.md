@@ -1,10 +1,9 @@
 ## Introduction of Tarun
-![](https://img.shields.io/badge/Twitter-1k+-blue?style=social&logo=twitter)
-![](https://img.shields.io/badge/Facebook-1.9k+-yellow?style=social&logo=facebook)
+![](https://img.shields.io/badge/Follower-1k+-blue?style=social&logo=twitter)
+![](https://img.shields.io/badge/Follower-1.9k+-yellow?style=social&logo=facebook)
 
 
-![](https://img.shields.io/badge/3k+-red?style=social&logo=instagram)
-![](https://img.shields.io/badge/Youtube-19k+-yellow?style=social&logo=youtube)
+![](https://img.shields.io/badge/Subscribers-19k+-yellow?style=social&logo=youtube)
 
 
 
@@ -45,31 +44,31 @@ extrovert and gentle.follow are the my best friend list:
 
 #### pic of prizing ceremony
 
-<!-- ![alt text](https://tarun-choudhary.github.io/IMG-20190928-WA0014.jpg ) -->
-![alt text](https://tarun-choudhary.github.io/tarun.jpg )
+<!-- ![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0014.jpg ) -->
+<!-- ![alt text](https://tarun-choudhary.github.io/intro/tarun.jpg ) -->
 
 
 
-![alt text](https://tarun-choudhary.github.io/tarun1.jpg )
+![alt text](https://tarun-choudhary.github.io/intro/tarun1.jpg )
 
 
 #### it's me
-![alt text](https://tarun-choudhary.github.io/tarun2.jpg )
-![alt text](https://tarun-choudhary.github.io/IMG_20201202_123619_698.jpg)
-![alt text](https://tarun-choudhary.github.io/IMG_20201202_123625_156.jpg)
-![alt text](https://tarun-choudhary.github.io/IMG_20201202_123622_764.jpg )
+![alt text](https://tarun-choudhary.github.io/intro/tarun2.jpg )
+![alt text](https://tarun-choudhary.github.io/intro/IMG_20201202_123619_698.jpg)
+![alt text](https://tarun-choudhary.github.io/intro/IMG_20201202_123625_156.jpg)
+![alt text](https://tarun-choudhary.github.io/intro/IMG_20201202_123622_764.jpg )
 
 
 
 
 <!-- #### picture of few but best friends
-![alt text](https://tarun-choudhary.github.io/IMG-20190928-WA0020.jpg )
+![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0020.jpg )
 
-![alt text](https://tarun-choudhary.github.io/IMG-20190928-WA0021.jpg )
+![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0021.jpg )
 
-![alt text](https://tarun-choudhary.github.io/IMG-20190928-WA0022.jpg )
+![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0022.jpg )
 
 
 
 ##### you can see the raushan's yogashan 😂😂😂😂
-![alt raushan yoga ](https://tarun-choudhary.github.io/IMG-20190928-WA0025.jpg "raushan yogashan")-->
+![alt raushan yoga ](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0025.jpg "raushan yogashan")-->
