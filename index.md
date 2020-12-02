@@ -10,24 +10,21 @@
 
 ### intro:
 
-Hii i am Tarun choudhary  and people known me as **_Tarun_** **_racer_**,
-i have won many prizes on the state level.Now i am persuing class 11 with CBSE boards
-.Now i am living in Sangam vihar Delhi.
+Hii there I'm Tarun choudhary  and people known me as **_Tarun_** **_racer_**,
+i have won many prizes on the state level.Now I'm persuing Intermediate of science with CBSE Board.
+.Right now living in Sangam vihar Delhi.
 
 
 ### passion:
 I have lots of passion like; 
-* cricket 
+* Wrestling
 * basketball 
 * football
 * chess,etc
 
-But i mainly prefer racing like:
-* car racing
-* bike racing etc
- 
-because i love speed.
-As i mentioned above i read in 11 class,and i am the student of science, because of this my curiosity level always be at higher-end.
+But mostly prefer racing either car racing or bike racing etc
+ because I love speed.
+As a students of sciencemy curiosity level is being high and always try to explore new stuff.
 
 <!-- ### My pic with my friends:
 
