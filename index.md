@@ -1,6 +1,6 @@
 ## Introduction of Tarun
 ![](https://img.shields.io/badge/Twitter-1k+-blue?style=social&logo=twitter)
-![](https://img.shields.io/badge/Facebook-2k+-yellow?style=social&logo=facebook)
+![](https://img.shields.io/badge/Facebook-1.9k+-yellow?style=social&logo=facebook)
 ![](https://img.shields.io/badge/3k+-red?style=social&logo=instagram)
 
 
