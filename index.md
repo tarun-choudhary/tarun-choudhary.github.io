@@ -1,9 +1,9 @@
 ## Introduction of Tarun
-![](https://img.shields.io/badge/Follower-1k+-blue?style=social&logo=twitter)
+![](https://img.shields.io/badge/Follower-1.5k+-blue?style=social&logo=twitter)
 ![](https://img.shields.io/badge/Follower-1.9k+-yellow?style=social&logo=facebook)
 
 
-![](https://img.shields.io/badge/Subscribers-19k+-yellow?style=social&logo=youtube)
+<!-- ![](https://img.shields.io/badge/Subscribers-19k+-yellow?style=social&logo=youtube) -->
 
 
 
